@@ -6,13 +6,13 @@ El proyecto de Optimización Logística tiene como objetivo abordar el desafío 
 
 ## Datos para la Mejora Continua 📊
 
-Participar en este proyecto no solo implica abordar los desafíos logísticos actuales, sino también contribuir a la evolución y mejora continua de la cadena de suministro a nivel mundial. Los datos proporcionados servirán como base para el desarrollo de modelos de machine learning que permitirán tomar decisiones más informadas y estratégicas en el ámbito de la logística global.
+Este proyecto aborda los desafíos logísticos actuales, contribuye a la evolución y mejora continua de la cadena de suministro a nivel mundial. Los datos proporcionados servirán como base para el desarrollo de modelos de machine learning que permitirán tomar decisiones más informadas y estratégicas en el ámbito de la logística global.
 
 ¡Bienvenido al futuro de la logística y al impulso del comercio mundial! 👩‍💻🌐
 
 # About 🤖
 
-Este proyecto de Optimización Logística no solo se trata de coordinar envíos, sino que también incorpora un enfoque de Machine Learning para predecir la llegada de los envíos. Al aprovechar algoritmos avanzados y análisis predictivo, mi sistema busca anticiparse a posibles retrasos o inconvenientes en la entrega. Esta integración de Machine Learning no solo optimiza las operaciones sino que también mejora la precisión en la planificación logística, brindando una experiencia de envío más eficiente y confiable para clientes y empresas por igual.
+Este proyecto de Optimización Logística se trata de coordinar envíos, pero ademas también incorpora un enfoque de Machine Learning para predecir la llegada de los envíos. Al aprovechar algoritmos avanzados y análisis predictivo, mi sistema busca anticiparse a posibles retrasos o inconvenientes en la entrega. Esta integración de Machine Learning no solo optimiza las operaciones sino que también mejora la precisión en la planificación logística, brindando una experiencia de envío más eficiente y confiable para clientes y empresas por igual.
 
 # Exploración y Transformación de Datos - Proyecto E-Commerce 📊🛍️
 
